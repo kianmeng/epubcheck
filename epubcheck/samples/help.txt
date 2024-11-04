@@ -43,7 +43,7 @@ This tool also accepts the following options:
                            1 if either warnings or errors are present and 0 only when there are no errors or warnings.
 -q, --quiet              = no message on console, except errors, only in the output
 -f, --fatal              = include only fatal errors in the output
--e, --error              = include only error and fatal severity messages in ouput
+-e, --error              = include only error and fatal severity messages in output
 -w, --warn               = include fatal, error, and warn severity messages in output
 -u, --usage              = include ePub feature usage information in output
                            (default is OFF); if enabled, usage information will

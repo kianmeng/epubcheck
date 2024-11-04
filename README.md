@@ -12,7 +12,7 @@ tool for EPUB maintained by [DAISY Consortium](https://daisy.org/) on behalf of 
 [W3C](https://www.w3.org/publishing/epubcheck_fundraising), originally developed by the
 [IDPF](http://idpf.org/).
 
-This package provides a Python libary and command line tool for convenient validation of EPUB files
+This package provides a Python library and command line tool for convenient validation of EPUB files
 by wrapping the original [EpubCheck 4.2.6](https://github.com/w3c/epubcheck/releases/tag/v4.2.6).
 
 - Free software: BSD license
@@ -35,7 +35,7 @@ PyPy.
 
 ### Command line usage examples
 
-Validata all epub files in the current directory:
+Validate all epub files in the current directory:
 
 ```
 $ epubcheck
@@ -113,7 +113,7 @@ poe all
 
 ### 0.3.1 - 2016-04-20
 
-- Added custom PY2/PY3 compat module and removed dependancy on six
+- Added custom PY2/PY3 compat module and removed dependency on six
 
 ### 0.3.0 - 2016-04-10
 

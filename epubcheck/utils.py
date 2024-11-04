@@ -65,7 +65,7 @@ def iter_files(root, exts=None, recursive=False):
     Iterate over file paths within root filtered by specified extensions.
     :param compat.string_types root: Root folder to start collecting files
     :param iterable exts: Restrict results to given file extensions
-    :param bool recursive: Wether to walk the complete directory tree
+    :param bool recursive: Weather to walk the complete directory tree
     :rtype collections.Iterable[str]: absolute file paths with given extensions
     """
 
